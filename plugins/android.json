@@ -9,6 +9,9 @@
     "installed_plugins": {
         "cordova-plugin-whitelist": {
             "PACKAGE_NAME": "p3.example.com"
+        },
+        "cordova-plugin-globalization": {
+            "PACKAGE_NAME": "com.packtpub.phonegaphotshot.filerv3"
         }
     },
     "dependent_plugins": {}
