@@ -8,6 +8,13 @@
     <feature name="Globalization">
         <param name="android-package" value="org.apache.cordova.globalization.Globalization" />
     </feature>
+    <feature name="File">
+        <param name="android-package" value="org.apache.cordova.file.FileUtils" />
+        <param name="onload" value="true" />
+    </feature>
+    <feature name="Media">
+        <param name="android-package" value="org.apache.cordova.media.AudioHandler" />
+    </feature>
     <name>FilerV3</name>
     <description>
         PhoneGap HotShot 3.x Mobile Application Development, Filer Version 3. 
