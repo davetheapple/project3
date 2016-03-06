@@ -8,6 +8,12 @@
         Kerri Shotts 
     </author>
     <content src="index.html" />
+    
+    <!-- A wildcard can be used to whitelist the entire network,
+     over HTTP and HTTPS.
+     *NOT RECOMMENDED* -->
+	<allow-navigation href="*" />
+	
     <access origin="*" />
     <preference name="fullscreen" value="false" />
     <preference name="webviewbounce" value="false" />
